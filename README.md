@@ -51,7 +51,7 @@ streamlit run app.py
 
 You'll need `gpt_got.pth`, `hparams.json` and `tokenizer.json` in the same folder. The notebook has a save block at the end that generates these.
 
-Live demo: [link](https://smallgpt-shadow-sama.streamlit.app/)
+Live demo: [link](https://smallgpt-shadow-sama.streamlit.app)
 
 ---
 
