@@ -40,12 +40,12 @@ Steps      : 5000
 
 ## Running it
 
-Open `notebook.ipynb` and run all cells. GPU recommended for training.
+Open `gpt-small.ipynb` and run all cells. GPU recommended for training.
 
 For the Streamlit app:
 
 ```bash
-pip install streamlit torch
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
